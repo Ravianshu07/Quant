@@ -1,4 +1,4 @@
-# Quant# 
+# Quant
 👋 Hey there! Welcome to my Data Science Projects
 
 This repo is my little corner of the internet where I explore data, build models, break stuff, and (sometimes) make things work again 😄.
